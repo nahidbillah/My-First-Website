@@ -1,0 +1,19 @@
+.lorem
+{
+    color: lightblue;
+    font-size: 20px;
+    font-weight: 800;
+    border: 1px solid purple;
+    border-radius: 10px;
+    margin: 1%;
+    padding: 1%;
+    width: 28.5%;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
